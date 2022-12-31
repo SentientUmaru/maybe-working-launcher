@@ -1,3 +1,6 @@
+/*unusable it seems*/
+
+
 /* Function: FUN_00401000 */
 LRESULT FUN_00401000(HWND param_1,UINT param_2,WPARAM param_3,int param_4)
 
